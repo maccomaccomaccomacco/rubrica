@@ -20,3 +20,7 @@ Le dipendenze javascript sono raccolte nella cartella *./js*.
 Le dipendenze Css sono raccolte nella cartella *./css*.
 
 - Boostrap v3.3.7
+
+
+##Rubrica-evo
+[Rubrica + Webpack](https://github.com/marcoautiero/rubrica-evo)
