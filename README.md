@@ -1,6 +1,11 @@
-# Rubrica
 
-  
+
+## Rubrica-evo
+[Rubrica + Webpack](https://github.com/marcoautiero/rubrica-evo)
+
+----------------------------------------------------------------------------
+
+## Rubrica  
 
 ### Istruzioni
 
@@ -21,6 +26,3 @@ Le dipendenze Css sono raccolte nella cartella *./css*.
 
 - Boostrap v3.3.7
 
-
-##Rubrica-evo
-[Rubrica + Webpack](https://github.com/marcoautiero/rubrica-evo)
